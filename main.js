@@ -14,7 +14,6 @@ function new_image() {
     });
 
 }
-x = document.getElementById("myAudio");
 function playSound() {
     x.play();
 }
